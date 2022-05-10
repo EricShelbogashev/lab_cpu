@@ -1,4 +1,4 @@
-
+https://stenenko.com/teach/digital/board-xdc-file.html
 # 12 MHz clock
 set_property PACKAGE_PIN F5      [get_ports clk]
 set_property IOSTANDARD LVCMOS33 [get_ports clk]
